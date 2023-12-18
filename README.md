@@ -10,6 +10,9 @@ The code is available at:https://pan.baidu.com/s/1kgoF_QgwAHW6kOEnGRfDAw?pwd=0pr
 # Paper
 https://www.sciencedirect.com/science/article/abs/pii/S0950705123000722
 
+[2023-Cross-Modality Salient Object Detection Network with Universality and Anti-interference.pdf](https://github.com/VDT-2048/GRNet/files/13700331/2023-Cross-Modality.Salient.Object.Detection.Network.with.Universality.and.Anti-interference.pdf)
+
+
 # Citation
 Wen H, Song K, et al.Cross-modality salient object detection network with universality and anti-interference[J]. Knowledge-Based Systems, 2023, 264: 110322.
 
